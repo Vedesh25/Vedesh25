@@ -9,7 +9,7 @@
 I'm a B.Tech CSE student at SRM University AP, passionate about building tech that solves real-world problems. I love working on web apps, experimenting with AI/ML, and exploring blockchain technologies. From developing a bus tracking system to creating smart contracts, I enjoy combining creativity with code. Always learning, always building.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedesh_kottapalli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedesh-kottapalli-82a6852b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJQLc4zqRT%2BunNTKRFjDEVw%3D%3D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vedesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedesh.kot@gmail.com) 
 
 # 💻 Language and Tools:
